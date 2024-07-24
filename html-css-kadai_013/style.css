@@ -58,7 +58,7 @@ PC用のスタイル
   #nav-pc>a:active {
     color: #0d0d0d;
   }
-}
+
 
 /*================
 課題　 PCの画面幅の場合にSPのナビゲーションを非表示にする
@@ -71,7 +71,7 @@ PC用のスタイル
   display: none;
 }
 
-
+}
 
 
 /*================
@@ -91,6 +91,7 @@ PC用のスタイル
 #menu-sp{
   float: right;
   padding: 0;
+ 
 }
 
 #nav-sp{
